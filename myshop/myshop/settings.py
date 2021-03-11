@@ -74,7 +74,7 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'myshop.wsgi.application'
 
-
+import os
 # Database
 # https://docs.djangoproject.com/en/3.1/ref/settings/#databases
 
